@@ -1,0 +1,15 @@
+# Compiled binaries
+url-worker-pool
+url-worker-pool.exe
+*.test
+*.exe
+
+# Local IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Testing artifacts
+coverage.out
+*.prof
